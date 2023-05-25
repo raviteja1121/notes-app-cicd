@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node app.js",
     "test": "mocha"
+    "sonar": "sonar-scanner"
   },
   "keywords": [],
   "author": "",
